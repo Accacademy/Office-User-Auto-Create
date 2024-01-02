@@ -13,5 +13,5 @@ Rewrote web page with React，use KV to store codes
 create a KV with namespace `_KV`
 
 
-https://www.kskb.eu.org/2021/02/office-user-auto-create.html
+https://www.kskb.eu.org/2021/02/office-user-auto-create.html 
 https://github.com/witowl/msautocreate?tab=readme-ov-file
